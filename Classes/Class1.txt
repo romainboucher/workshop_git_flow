@@ -1,4 +1,8 @@
 public class Class1
 {
 	"Voici le contenu de la Class1 et alerte"
+
+	"Voici le contenu de la Class1"
+
+	fun douze():int = 12
 }
